@@ -20,6 +20,8 @@
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-FF6600?style=for-the-badge&logo=Swift&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)&nbsp;
+
 
 
 <div align="center"> 
