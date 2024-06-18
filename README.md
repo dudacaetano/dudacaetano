@@ -6,6 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dudacaetano&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=D8BFD8&bg_color=0d1117" alt="Duda Caetano github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaCaetano&layout=compact&hide_border=true&title_color=8A2BE2&text_color=D8BFD8&bg_color=0d1117&theme=tokyonight&hide=Jupyter%20Notebook"/>
 </div>
 
  ### Main skills:
