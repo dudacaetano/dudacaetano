@@ -18,9 +18,10 @@
 
 
 ### Studying in this moment:
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp; ](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FF6600?style=for-the-badge&logo=Swift&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 
