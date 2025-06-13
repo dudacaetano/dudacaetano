@@ -17,9 +17,7 @@
 <br>
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudacaetano&theme=dark&hide_border=true&fire=8A2BE2" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudacaetano&theme=radical&hide_border=true" />
 </div>
 
 
